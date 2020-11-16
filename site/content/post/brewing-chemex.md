@@ -8,7 +8,7 @@ image: img/img_6210.jpg
 ---
 This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts*.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+xxxxxxxxx.
 
 ## The little secrets of Chemex brewing
 
@@ -18,10 +18,6 @@ The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conica
 2. Use a scale, don’t try to eyeball it.
 3. Never skip preheating the glass.
 4. Timing is key, don’t forget the clock.
-
-
-
-
 
 ![kkkkkk](img/home-about-section.jpg "dsfgsdfg")
 
